@@ -113,4 +113,4 @@ CONCLUSION
     Model is giving an accuracy of 68% and validation accuracy of 64% .It is robust in that it works well even in a dim light environment.
     The application is able to detect face location and predict the right expression while checking it on a local webcam.
     The front-end of the model was made using streamlit for webapp and running well on local webapp link.
-    Successfully deployed the Streamlit WebApp on Heroku and Streamlit Cloud , that runs on a web server.
+    Successfully deployed the Streamlit WebApp and Streamlit Cloud , that runs on a web server.
